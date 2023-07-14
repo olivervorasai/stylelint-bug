@@ -1,7 +1,6 @@
 {
   "name": "stylelint-bug",
   "scripts": {
-    "lint": "stylelint **/*.css",
     "prepare": "husky install"
   },
   "devDependencies": {
